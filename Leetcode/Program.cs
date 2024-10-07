@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Leetcode.Solutions;
+using static Leetcode.Solutions.Lc_329_LongestIncreasingPathMatrix;
 using static Leetcode.Solutions.Lc_64_MinimumPathSum;
 
 Console.WriteLine("Adler Pagliarini, Leetcode Solutions!");
@@ -14,3 +15,4 @@ Lc_210_Tests.Execute();
 Lc_62_Tests.Execute();
 Lc_64_Tests.Execute();
 Lc_124_Tests.Execute();
+Lc_329_Tests.Execute();
