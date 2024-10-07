@@ -13,3 +13,4 @@ Lc_21_Tests.Execute();
 Lc_210_Tests.Execute();
 Lc_62_Tests.Execute();
 Lc_64_Tests.Execute();
+Lc_124_Tests.Execute();
