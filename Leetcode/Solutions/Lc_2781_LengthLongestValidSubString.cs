@@ -51,6 +51,7 @@
             var lc2781code = new Lc_2781_LengthLongestValidSubString();
             Console.WriteLine("Expected Output: 4 - " + lc2781code.LongestValidSubstring("leetcode", new List<string>() { "de", "le", "e" })); // tcod            
             Console.WriteLine("Expected Output: 6 - " + lc2781code.LongestValidSubstring("eabtcodele", new List<string>() { "de", "le", "e" })); // abtcod
+            Console.WriteLine("");
         }
     }
 }
