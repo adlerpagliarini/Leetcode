@@ -63,7 +63,7 @@ namespace Leetcode.Solutions
         {
             Console.WriteLine("Leetcode: 210 Course Schedule II");
 
-            var lc210code = new Lc_210_CourseScheduleII();            
+            var lc210code = new Lc_210_CourseScheduleII();
             var result = lc210code.FindOrder(6, [[2, 0], [1, 0], [0, 3], [3, 4], [3, 5]]);
             Console.WriteLine("Expected Output: [4, 5, 3, 0, 1, 2]");
             Log.DebugPrintListInt([.. result]);
