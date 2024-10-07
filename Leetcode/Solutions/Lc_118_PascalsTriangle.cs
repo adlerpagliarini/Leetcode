@@ -2,10 +2,10 @@
 
 namespace Leetcode.Solutions
 {
-    // 118. Pascal's Triangle
-    // https://leetcode.com/problems/pascals-triangle/description/
     public class Lc_118_PascalsTriangle
     {
+        // 118. Pascal's Triangle
+        // https://leetcode.com/problems/pascals-triangle/description/
         public IList<IList<int>> Generate(int numRows)
         {
             var result = new List<IList<int>>();
