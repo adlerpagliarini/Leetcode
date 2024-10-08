@@ -76,7 +76,7 @@
                         }
                     }
                 }
-            };            
+            };
             var listRotate1 = new ListNode()
             {
                 val = 1,
