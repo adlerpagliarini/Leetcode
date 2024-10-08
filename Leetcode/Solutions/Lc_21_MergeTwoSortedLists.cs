@@ -7,7 +7,6 @@ namespace Leetcode.Solutions
     {
         // 21. Merge Two Sorted Lists
         // https://leetcode.com/problems/merge-two-sorted-lists/description/
-
         public ListNode MergeTwoLists(ListNode list1, ListNode list2)
         {
             var root = new ListNode();
